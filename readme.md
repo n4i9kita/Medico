@@ -2,10 +2,12 @@
   <h1>
 HackStack'22</h1>
 </a>
-Team members : <a href="https://github.com/AyushiNM">Ayushi Mittal</a>, 
+* Team members : <a href="https://github.com/AyushiNM">Ayushi Mittal</a>, 
 <a href="https://github.com/manikajain11">Manika Jain</a>, 
 <a href="https://github.com/raghulbaskar/">Raghul Baskar</a>, 
-<a href="https://github.com/n4i9kita">Nikita</a>
+<a href="https://github.com/n4i9kita">Nikita</a><br/>
+* <a href="Medico (Team - Fuzzy Logic) HackStack'22.pdf">PPT by Team : Fuzzy Logic</a><br/>
+* <a href="https://drive.google.com/file/d/19GIVHV45HowFkjH4K7eG5JrEI2rxsDGJ/view?usp=sharing">Video Presentation</a>
 
 <!-- PROJECT LOGO -->
 <br />
