@@ -13,7 +13,7 @@ Team members : <a href="https://github.com/AyushiNM">Ayushi Mittal</a>,
 
  
 <h1 align="center">Medico</h1>
-<h3 align="center"> One Stop Solution for you Healthcare </h3>
+<h3 align="center"> One Stop Solution for your Healthcare </h3>
 
 </div>
 
