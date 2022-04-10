@@ -45,13 +45,20 @@ Team members : <a href="https://github.com/AyushiNM">Ayushi Mittal</a>,
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Medico is a web application for health care needs. It helps in various aspects as follows : 
+Medico is a web application for health care needs. The major motivation behind this project is the lack of healthcare services in the rural India. More often than not, if a person suffers from a disease, or a medical condition, they have to travel 2-3 hours to the nearest cities to access even basic healthcare. The situation is even worse for the villages. In emergency situations, when every minute is important to save the lives of the patients, this becomes a major problem, and many times results is the loss of lives. We want to make healthcare more accessible to everyone.
+It helps in various aspects as follows : 
 * Connecting with doctors
 * Tracking the fitness and diet
 * With inbuilt community support
 * Medication and Appointment remainders
 * Will be availabe in native languages
 * Inbuilt ChatBot
+* Discussion forum support
+* Blogs and Articles
+* Awareness campaigns through videos
+* Native Language Support in Hindi
+* Healthcare literacy
+
 
 
 ### Built With
@@ -74,22 +81,9 @@ Medico is a web application for health care needs. It helps in various aspects a
 * [Python](https://docs.python.org/3/)
 * [Numpy](https://numpy.org/doc/)
 * [Pandas](https://pandas.pydata.org/docs/)
+
+
 ## Getting Started
-
-This is an exampl<!-- GETTING STARTED -->e of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-###
-* Consultation Services 
-* Online meeting platform
-* Personal Health Tracker
-* Chatbot assistant
-* Discussion forum support
-* Blogs and Articles
-* Awareness campaigns through videos
-* Native Language Support in Hindi
-* Healthcare literacy
-
 
 ### Installation
 
@@ -116,6 +110,9 @@ Community Page :
 
 Appointments Page :
 ![appointments](https://user-images.githubusercontent.com/60391776/162626517-ad4b38ea-af8c-4fe5-b976-de98f45b8014.png)
+
+Chatbot :
+![chatbot](https://user-images.githubusercontent.com/60391776/162632722-6270c9dd-d16b-4bd4-8138-d416d6099955.png)
 
 
 <!-- LICENSE -->
